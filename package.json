@@ -1,0 +1,17 @@
+{
+  "name": "try-subs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "listen": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.5.0",
+    "graphql-ws": "^5.8.1",
+    "ws": "^8.6.0"
+  }
+}
